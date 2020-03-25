@@ -1,0 +1,2 @@
+# HelloDjango
+test django
